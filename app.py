@@ -416,7 +416,7 @@ def main():
     # -------------------------------------------------------------
     # MAIN PANEL: Header & Intelligence Summary
     # -------------------------------------------------------------
-    st.markdown('<div class="main-title">Dynamic Graph Neural Networks vs. Gradient Boosted Decision Trees</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-title">Dynamic Graph Neural Networks vs. Gradient Boosted Decision Trees (Live v1.0)</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Forensic transaction analysis, ego-network visualization, and dual-model fraud probability scoring.</div>', unsafe_allow_html=True)
 
     target_tx_id = int(data.tx_id[selected_node_idx].item())
