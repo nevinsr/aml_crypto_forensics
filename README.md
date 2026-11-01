@@ -1,5 +1,7 @@
 # Dynamic Graph Neural Networks vs. Gradient Boosted Decision Trees for Anti-Money Laundering
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amlcryptoforensics-3nxfdpjywgcaurysttcmhc.streamlit.app/)
+
 An MSc-level machine learning and financial forensics system comparing **Graph Convolutional Networks (GCNs)** with **Gradient Boosted Decision Trees (LightGBM)** on the **Elliptic Bitcoin Dataset**.
 
 ---
